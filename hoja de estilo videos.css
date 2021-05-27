@@ -1,0 +1,61 @@
+a{
+Padding:10px;
+Fond-family:sans-serif;
+Font-weight:bold;
+color:White;
+text-decoration:none;
+}
+
+
+nav {
+text-align:center;
+
+}
+
+h3 {
+text-align:center;
+
+}
+
+ 
+body{
+  background-image: url(https://factor4tro.com/wp-content/uploads/2019/02/fondo-minimalista-negro-minimalist-background-fondo-sitio-web-minimalista-fondo-negro-web.jpg);
+background-size: cover;
+background-repeat:no-repeat;
+
+} 
+
+
+div{
+  display: inline-block;
+  vertical-align:top;
+  padding: 10px 10px;
+Background-color:black;
+}
+ 
+A:hover{
+color:grey;
+}
+
+h1 {
+color:White;
+}
+
+p {
+color:White;
+text-align:center;
+}
+
+H3 {
+color:White;
+font-family:monospace;
+}
+
+H2 {
+color:White;
+text-align:center;
+}
+
+H6 {
+Color:white;
+}
